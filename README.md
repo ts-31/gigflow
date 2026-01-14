@@ -8,8 +8,9 @@ GigFlow is a freelance marketplace application where users can post gigs, place 
   👉 https://gigflow-1-58e6.onrender.com/
 
 - **Backend API (Render – Express)**:  
-  👉 https://gigflow-sqra.onrender.com  
-  ⚠️ *Note: Backend is hosted on Render free tier and may take a few seconds to spin up on first request.*
+  👉 https://gigflow-sqra.onrender.com 
+
+  ⚠️ *Note: Backend and Frontend is hosted on Render free tier and may take a few seconds to spin up on first request.*
 
 - **Demo Video (2 mins)**:  
   🎥 https://drive.google.com/file/d/1lTdm5Iao43s6bzm1yupqiP4pnOpVW3F-/view
