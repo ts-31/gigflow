@@ -2,6 +2,20 @@
 
 GigFlow is a freelance marketplace application where users can post gigs, place bids, and hire freelancers. The platform features real-time notifications and secure hiring transactions.
 
+## Live Demo
+
+- **Frontend (Render – Static)**:  
+  👉 https://gigflow-1-58e6.onrender.com/
+
+- **Backend API (Render – Express)**:  
+  👉 https://gigflow-sqra.onrender.com  
+  ⚠️ *Note: Backend is hosted on Render free tier and may take a few seconds to spin up on first request.*
+
+- **Demo Video (2 mins)**:  
+  🎥 https://drive.google.com/file/d/1lTdm5Iao43s6bzm1yupqiP4pnOpVW3F-/view
+
+---
+
 ## Features
 
 - **Authentication**: Secure user registration and login using JWT and HttpOnly cookies.
@@ -98,5 +112,3 @@ npm run dev
 - **MongoDB Transactions**: A MongoDB Replica Set is required for the hiring transaction logic to function.
 - **Socket.io**: Real-time notification socket connects on login and disconnects on logout.
 
-## Demo
-[]
